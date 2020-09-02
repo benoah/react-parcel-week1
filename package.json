@@ -10,9 +10,11 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "bootstrap": "^4.5.2"
+    "bootstrap": "^4.5.2",
+    "parcel": "^1.12.4"
   },
   "devDependencies": {
+    "cssnano": "^4.1.10",
     "sass": "^1.26.10"
   }
 }
